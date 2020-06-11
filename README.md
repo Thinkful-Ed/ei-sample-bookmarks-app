@@ -1,8 +1,8 @@
-## Carlo's Bookmark App
+## Andrea's Bookmark App
 
 Application to collect and handle your favorite bookmarks.
 
-Link: https://cnickp-code.github.io/Bookmarks_App/
+Link: https://andreacardybailey.github.io/Bookmarks_App/
 
 ### User stories: 
 
